@@ -69,5 +69,5 @@ USE THIS OR THE EXPANDED SYNTAX BELOW-->
 
 <!-- MARIO -->
 <div align="center">
-<img src="<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" align="center" alter='fading line' width="100%">
+<img src=<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" align="center" alter='fading line' width="100%">
 <br><br>
