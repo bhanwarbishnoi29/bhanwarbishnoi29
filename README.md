@@ -67,5 +67,5 @@ USE THIS OR THE EXPANDED SYNTAX BELOW-->
 <!-- Commits Streak -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanwarbishnoi29&theme=dark" alt="bhanwarbishnoi29" /></p>
 
-
+<img src="file:///C:/Users/SAMYA%20ALI/Downloads/your_cool_intro.gif" align="center" alter='fading line' width="100%">
 <br><br>
